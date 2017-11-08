@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="17" height="13" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Traffic Education" tilewidth="64" tileheight="64">
+  <image source="tileset.png" width="384" height="384"/>
+ </tileset>
+ <layer name="Background" width="17" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BMAAAN0AAE=
+  </data>
+ </layer>
+ <layer name="Tiles" width="17" height="13">
+  <data encoding="base64" compression="zlib">
+   eJydk0sOgCAQQ4mgIxs5gG70/ocUE0yahiKyeCGhTJkPmHPOCusPjIiVPfRMQn/35+Lhwb92j5EeGt7IRmuLCPXsmUN4oIYxzJm5BrQkanvqnkR/VAzn26st5In58pxQa+WhZtkzFw99Vv1GPdC5r3eq8qjFjf6XGyvOCCM=
+  </data>
+ </layer>
+</map>
